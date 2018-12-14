@@ -1,8 +1,7 @@
 # Passo a passo para criação de novos repositórios
 
+Ambiente de Desenvolvimento
 ---
-
-#Ambiente de Desenvolvimento
 
 **1 - Criar o repositório no Bitbucket**
 
@@ -28,9 +27,8 @@ meteor create --bare "nome da aplicação"
 ```
 A partir desse passo, a aplicação já pode ser usada pelos desenvolvedores para enviar seus códigos fodas.
 
+Ambiente de Servidor
 ---
-
-#Ambiente de Servidor
 
 **4 - Definir e criar servidor no Bluemix**
 

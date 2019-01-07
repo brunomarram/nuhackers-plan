@@ -1,7 +1,6 @@
 Problemas e Caminhos para Nuhacker 2.0
 ---
 
----
 **Problemas**
 
 1. Conhecer melhor o papel do devOps dentro da empresa.
